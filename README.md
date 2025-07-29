@@ -8,9 +8,7 @@ This project is a custom-built, lightweight Point of Sale (POS) system designed 
 
 The Minimum Viable Product (MVP) is fully functional and focuses on the essential daily tasks:
 
-- **Barcode Integration:** Add new products or look up existing ones instantly by scanning their barcodes.
 - **Inventory Management:** A straightforward interface to add, search, and delete products from the inventory database.
-- **Sales Recording:** A simple mechanism to record sales transactions.
 
 *(A GIF demonstrating the MVP in action will be added here soon)*
 
@@ -21,7 +19,12 @@ The Minimum Viable Product (MVP) is fully functional and focuses on the essentia
 - **Database:** *SQLite3*
 - **Barcode Library:** *...*
 
-## 🚀 Future Roadmap: AI-Powered Automation
+## 🚀 Future Roadmap: 
+
+- **Barcode Integration:** Add new products or look up existing ones instantly by scanning their barcodes.
+- **Sales Recording:** A simple mechanism to record sales transactions.
+
+###AI-Powered Automation
 
 The next major phase of this project is to streamline the inventory onboarding process using modern AI technology.
 
