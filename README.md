@@ -24,7 +24,7 @@ The Minimum Viable Product (MVP) is fully functional and focuses on the essentia
 - **Barcode Integration:** Add new products or look up existing ones instantly by scanning their barcodes.
 - **Sales Recording:** A simple mechanism to record sales transactions.
 
-###AI-Powered Automation
+### AI-Powered Automation
 
 The next major phase of this project is to streamline the inventory onboarding process using modern AI technology.
 
